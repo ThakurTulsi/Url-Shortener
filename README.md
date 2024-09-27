@@ -46,7 +46,6 @@ Output:
 
 ```bash
 the shortened url is: https://tinyurl.com/abc123
-Good job! you did it!...
 ```
 
 ## Code Explanation
