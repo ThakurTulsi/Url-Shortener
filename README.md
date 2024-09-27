@@ -65,7 +65,6 @@ url_short = s.tinyurl.short(user_url)
 
 # Output the shortened URL
 print("the shortened url is: ", url_short)
-print("Good job! you did it!... ")
 ```
 
 - The script takes a URL input from the user and uses the `pyshorteners.Shortener()` class to create a TinyURL-shortened version of the original URL.
